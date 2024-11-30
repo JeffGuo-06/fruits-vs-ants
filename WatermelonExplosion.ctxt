@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=WatermelonExplosion
+comment1.params=
+comment1.target=WatermelonExplosion()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ endEffect()
+comment4.params=
+comment4.target=void\ updateImage()
+comment5.params=count\ range\ xPos\ yPos
+comment5.target=void\ spawnApples(int,\ int,\ int,\ int)
+numComments=6

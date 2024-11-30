@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=HoneyExplosion
+comment0.text=\r\n\ Typical\ explosion,\ just\ \r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=HoneyExplosion()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ hitEffect()
+comment4.params=
+comment4.target=void\ killAnts()
+comment4.text=\r\n\ Kills\ the\ ants\ but\ also\ ant\ hills\r\n
+comment5.params=
+comment5.target=void\ updateImage()
+numComments=6

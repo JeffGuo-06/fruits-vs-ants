@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=NormalBee
+comment1.params=origin
+comment1.target=NormalBee(VehicleSpawner)
+comment1.text=\r\n\ Just\ a\ typical\ bee\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

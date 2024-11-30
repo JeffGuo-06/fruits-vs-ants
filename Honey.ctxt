@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Honey
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Honey\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=direction
+comment1.target=Honey(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ explode()
+comment3.text=\r\n\ Explosion\ sequence\ and\ the\ preparation\ for\ it\r\n
+numComments=4
